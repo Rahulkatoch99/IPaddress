@@ -117,10 +117,10 @@ function App() {
         )}
         <header className="py-5">
           <div className="container">
-            <div className="row">
+            <div className="row justify-content-center">
               <h1 className="mb-5">IP Address Tracker</h1>
-              <div className="col"></div>
-              <div className="col">
+
+              <div className="col-md-8">
                 <Form className="d-flex">
                   <FormControl
                     type="text"
@@ -142,13 +142,12 @@ function App() {
                   </Button>
                 </Form>
               </div>
-              <div className="col"></div>
             </div>
           </div>
         </header>
         <div className="container-fluid">
           <div className="row">
-            <div className="col-md-8">
+            <div className="col-md-12">
               <figure class="snip1578">
                 <Table striped>
                   <thead>

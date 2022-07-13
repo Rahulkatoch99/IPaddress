@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.form-control{
+  width:80%;
+}
+
+
+
+@media(max-width:767px){
+  .form-control{
+    padding: 0.375rem 7.75rem !important;
+  }
+
+  .snip1578{
+    width: inherit !important;
+  }
+}

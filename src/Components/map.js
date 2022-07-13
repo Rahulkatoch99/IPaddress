@@ -38,7 +38,7 @@ function MapInfo(props) {
       mapContainerStyle={containerStyle}
       center={center}
       style={style}
-      zoom={16}
+      zoom={11}
       onLoad={onLoad}
       onUnmount={onUnmount}
     >
