@@ -1,0 +1,43 @@
+body {
+    background-color: #ecf0f1;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 16px;
+    /* padding-top: 330px; */
+    
+    
+  }
+  header {
+    width: 100%;
+    height: 40%;
+    background-color: #3498db;
+    text-align: center;
+    position: relative;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+  }
+
+  h1 {
+    font-size: 42px;
+    color: #fff;
+    /* line-height: 190px; */
+    text-transform: uppercase;
+    font-weight: 100;
+    
+  }
+
+
+/* .d-flex{
+    padding-bottom: 35%;
+} */
+
+.search {
+    margin:10px;
+    width: auto;
+    padding:2px;
+    height:20px;
+
+  }
+
+
+   

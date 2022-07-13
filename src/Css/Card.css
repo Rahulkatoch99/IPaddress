@@ -1,0 +1,30 @@
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+.snip1578 {
+  font-family: 'Open Sans', Arial, sans-serif;
+  position:fixed;
+  /* display:inline-flex;
+  margin: 20px;
+  min-width: 100%;
+  max-width: 100%; */
+  width: 70%;
+  color: #000;
+  text-align: left;
+  font-size: 16px;
+  background: #fff;
+  border-radius: 5px;
+  /* align-items: center;
+  justify-content: center; */
+  z-index:20;
+  left: 50%;
+  top: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.snip1578 *,
+.snip1578:before,
+.snip1578:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
